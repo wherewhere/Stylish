@@ -1,6 +1,8 @@
 # Stylish插件
 一些基于CSS的Stylish主题插件
 
+<a href="https://userstyles.org/users/877108"><img alt="Stylish" src="https://img.shields.io/badge/download-magenta.svg?label=Stylish&logo=slides&style=for-the-badge"></a>
+
 ## 现支持的站点
  - 人人影视
    - zimuzu.tv
