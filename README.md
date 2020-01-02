@@ -1,6 +1,6 @@
 <img alt="Stylish LOGO" src="https://userstyles.org/ui/images/icons/stylish-icon.svg" width="200px" />
 
-# Stylish插件
+# Stylish 插件
 一些基于CSS的Stylish主题插件
 
 <a href="https://github.com/wherewhere/Stylish/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/wherewhere/Stylish.svg?label=License&style=flat-square"></a>
