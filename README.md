@@ -1,3 +1,5 @@
+<img alt="Stylish LOGO" src="https://userstyles.org/ui/images/icons/stylish-icon.svg" width="200px" />
+
 # Stylish插件
 一些基于CSS的Stylish主题插件
 
