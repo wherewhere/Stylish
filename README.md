@@ -14,6 +14,8 @@
    - xiazai003.com
    - zmz2019.com
    - got001.com
+ - 方正教务管理系统
+   - 211.86.224.21
 
 ## 如何安装插件
 ### 最低需求
@@ -32,3 +34,5 @@
 ## 屏幕截图
  - 字幕组
  ![zmz2019.com](https://userstyles.org/style_screenshots/178737_after.jpeg?r=1577952071)
+ - 方正教务管理系统
+ ![211.86.224.21](https://userstyles.org/style_screenshots/178840_after.jpeg?r=1578148113)
